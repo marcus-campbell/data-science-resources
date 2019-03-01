@@ -1,5 +1,5 @@
 #### Statistics
-[Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
+[Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) \
 [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
 
 #### Software Development Tools
