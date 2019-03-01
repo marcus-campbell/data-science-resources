@@ -1,6 +1,6 @@
 #### Statistics
 [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) \
-[Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
+[Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) \
 [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
 
 #### Software Development Tools
