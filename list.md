@@ -3,5 +3,8 @@
 [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) \
 [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
 
-#### Software Development Tools
+#### Version Control
+[Atlassian's Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+#### Software Project Management
 [Jira Vocabulary Guide](https://community.atlassian.com/t5/Jira-articles/Your-Go-To-Jira-Glossary/ba-p/605232)
