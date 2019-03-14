@@ -3,6 +3,9 @@
 [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) \
 [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
 
+#### Machine Learning
+[Support Vector Machines vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
+
 #### Version Control
 [Atlassian's Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
