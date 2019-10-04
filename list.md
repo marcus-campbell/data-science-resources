@@ -1,3 +1,6 @@
+#### Job Advice
+[Why You're Not a Data Scientist Yet](https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012)
+
 #### Statistics
 [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) \
 [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) \
