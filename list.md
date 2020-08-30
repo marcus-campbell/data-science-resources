@@ -3,7 +3,6 @@
 [ML Engineers Are Losing Their Jobs. Learn ML anyway](https://towardsdatascience.com/ml-engineers-are-losing-their-jobs-learn-ml-anyway-87e19523cd9b)
 
 #### Blogs
-
 [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html) \
 [Variance Explained](http://varianceexplained.org/)
 
@@ -23,3 +22,6 @@
 #### Software Engineering Project Management
 [Jira Vocabulary Guide](https://community.atlassian.com/t5/Jira-articles/Your-Go-To-Jira-Glossary/ba-p/605232) \
 [Black Swan Farming using Cost of Delay](https://www.growingagile.co.za/wp-content/uploads/2013/06/Black-Swan-Farming-using-Cost-of-Delay.pdf)
+
+#### Strategy
+[Lean Strategy](https://hbr.org/2016/03/lean-strategy)
