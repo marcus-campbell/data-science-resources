@@ -1,6 +1,6 @@
 # Data Science Reading List
 
-### Top Eight:
+### Top Ten:
 
 1. *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing*\
 Ron Kohavi, Diane Tang, Ya Xu
