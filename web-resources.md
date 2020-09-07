@@ -21,7 +21,7 @@
 #### Version Control
 [Atlassian's Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
-#### Software Engineering Project Management
+#### Software Engineering \ Project Management
 [Jira Vocabulary Guide](https://community.atlassian.com/t5/Jira-articles/Your-Go-To-Jira-Glossary/ba-p/605232) \
 [Black Swan Farming using Cost of Delay](https://www.growingagile.co.za/wp-content/uploads/2013/06/Black-Swan-Farming-using-Cost-of-Delay.pdf)
 
