@@ -2,9 +2,8 @@
 [Why You're Not a Data Scientist Yet](https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012) \
 [ML Engineers Are Losing Their Jobs. Learn ML anyway](https://towardsdatascience.com/ml-engineers-are-losing-their-jobs-learn-ml-anyway-87e19523cd9b)
 
-#### Blogs
-[What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html) \
-[Variance Explained](http://varianceexplained.org/)
+#### Metric Selection
+[You're Measuring Daily Active Users Wrong](https://amplitude.com/blog/2016/01/14/measuring-active-users)
 
 #### Statistics
 [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) \
@@ -16,9 +15,10 @@
 [Selecting Regression Metrics](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
 
 #### Machine Learning
+[What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html) \
 [Support Vector Machines vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
 
-#### Version Control
+#### Git
 [Atlassian's Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 #### Software Engineering \ Project Management
@@ -27,3 +27,6 @@
 
 #### Strategy
 [Lean Strategy](https://hbr.org/2016/03/lean-strategy)
+
+#### Blogs
+[Variance Explained](http://varianceexplained.org/)
