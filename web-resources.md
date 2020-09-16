@@ -12,6 +12,7 @@
 [Common statistical tests are linear models - Python version](https://eigenfoo.xyz/tests-as-linear/) \
 [Probability Theory by Jaynes](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf) \
 [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html) \
+[Do not use means with Likert scales](https://bookdown.org/Rmadillo/likert/summary.html) \
 [Selecting Regression Metrics](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
 
 #### Machine Learning
