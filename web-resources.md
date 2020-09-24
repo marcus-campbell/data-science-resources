@@ -26,6 +26,9 @@
 [Jira Vocabulary Guide](https://community.atlassian.com/t5/Jira-articles/Your-Go-To-Jira-Glossary/ba-p/605232) \
 [Black Swan Farming using Cost of Delay](https://www.growingagile.co.za/wp-content/uploads/2013/06/Black-Swan-Farming-using-Cost-of-Delay.pdf)
 
+#### Teamwork
+[The Five Keys to a Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
 #### Strategy
 [Lean Strategy](https://hbr.org/2016/03/lean-strategy)
 
