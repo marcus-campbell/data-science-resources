@@ -26,6 +26,12 @@
 [Jira Vocabulary Guide](https://community.atlassian.com/t5/Jira-articles/Your-Go-To-Jira-Glossary/ba-p/605232) \
 [Black Swan Farming using Cost of Delay](https://www.growingagile.co.za/wp-content/uploads/2013/06/Black-Swan-Farming-using-Cost-of-Delay.pdf)
 
+#### Structuring Data Science Within Organizations
+
+[Building an Analytics-Driven Organization](https://www.accenture.com/us-en/~/media/accenture/conversion-assets/dotcom/documents/global/pdf/industries_2/accenture-building-analytics-driven-organization.pdf) \
+[Analytics at Coursera: three years later](https://medium.com/@chuongdo/analytics-at-coursera-three-years-later-638498709ac8) \
+[Building Data Science Teams by DJ Patil](http://www.datascienceassn.org/sites/default/files/Building%20Data%20Science%20Teams.pdf)
+
 #### Teamwork
 [The Five Keys to a Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
