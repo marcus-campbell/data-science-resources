@@ -1,5 +1,6 @@
 #### Job Advice
 [Why You're Not a Data Scientist Yet](https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012) \
+[Data Analyst vs Data Scientist: Industry Perspectives](https://mpopov.com/blog/2018/05/24/data-analyst-vs-data-scientist-industry-perspectives/) \
 [ML Engineers Are Losing Their Jobs. Learn ML anyway](https://towardsdatascience.com/ml-engineers-are-losing-their-jobs-learn-ml-anyway-87e19523cd9b)
 
 #### Metric Selection
