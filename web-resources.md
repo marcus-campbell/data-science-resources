@@ -20,6 +20,9 @@
 [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html) \
 [Support Vector Machines vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
 
+#### Causal Inference
+[The Bradford Hill Criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
+
 #### Git
 [Atlassian's Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
@@ -41,3 +44,6 @@
 
 #### Blogs
 [Variance Explained](http://varianceexplained.org/)
+
+#### Fun
+[Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
