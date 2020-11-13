@@ -43,7 +43,7 @@
 [Lean Strategy](https://hbr.org/2016/03/lean-strategy)
 
 #### Blogs
-[Andrew Gelman's Blog: Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+[Andrew Gelman's Blog: Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/) \
 [Variance Explained](http://varianceexplained.org/)
 
 #### Fun
