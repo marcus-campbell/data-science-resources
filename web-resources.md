@@ -7,6 +7,7 @@
 [You're Measuring Daily Active Users Wrong](https://amplitude.com/blog/2016/01/14/measuring-active-users)
 
 #### Statistics
+[People Analytics](http://peopleanalytics-regression-book.org/index.html) \
 [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) \
 [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) \
 [Common statistical tests are linear models - R version](https://lindeloev.github.io/tests-as-linear/) \
