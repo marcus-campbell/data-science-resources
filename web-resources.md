@@ -15,7 +15,9 @@
 [Probability Theory by Jaynes](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf) \
 [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html) \
 [Do not use means with Likert scales](https://bookdown.org/Rmadillo/likert/summary.html) \
-[Selecting Regression Metrics](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
+[Selecting Regression Metrics](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0) \
+[Digital textbook on probability and statistics](https://www.statlect.com/) \
+[Berkeley's Data 8 Course](http://data8.org/) \
 
 #### Machine Learning
 [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html) \
