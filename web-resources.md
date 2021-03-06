@@ -27,7 +27,10 @@
 [The Bradford Hill Criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
 
 #### A/B Testing
-[An Introduction to A/B Testing and Experimentation](https://www.dynamicyield.com/lesson/introduction-to-ab-testing/)
+[An Introduction to A/B Testing and Experimentation](https://www.dynamicyield.com/lesson/introduction-to-ab-testing/) \
+[A/B testing at LinkedIn: Assigning variants at scale](https://engineering.linkedin.com/blog/2020/a-b-testing-variant-assignment) \
+[Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) \
+[https://engineering.linkedin.com/blog/2021/budget-split-testing](https://engineering.linkedin.com/blog/2021/budget-split-testing)
 
 #### Git
 [Atlassian's Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
@@ -37,10 +40,10 @@
 [Black Swan Farming using Cost of Delay](https://www.growingagile.co.za/wp-content/uploads/2013/06/Black-Swan-Farming-using-Cost-of-Delay.pdf)
 
 #### Structuring Data Science Within Organizations
-
 [Building an Analytics-Driven Organization](https://www.accenture.com/us-en/~/media/accenture/conversion-assets/dotcom/documents/global/pdf/industries_2/accenture-building-analytics-driven-organization.pdf) \
 [Analytics at Coursera: three years later](https://medium.com/@chuongdo/analytics-at-coursera-three-years-later-638498709ac8) \
-[Building Data Science Teams by DJ Patil](http://www.datascienceassn.org/sites/default/files/Building%20Data%20Science%20Teams.pdf)
+[Building Data Science Teams by DJ Patil](http://www.datascienceassn.org/sites/default/files/Building%20Data%20Science%20Teams.pdf) \
+[Engineers Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/#footnote1-return)
 
 #### Teamwork
 [The Five Keys to a Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
