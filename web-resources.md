@@ -43,7 +43,8 @@
 [Building an Analytics-Driven Organization](https://www.accenture.com/us-en/~/media/accenture/conversion-assets/dotcom/documents/global/pdf/industries_2/accenture-building-analytics-driven-organization.pdf) \
 [Analytics at Coursera: three years later](https://medium.com/@chuongdo/analytics-at-coursera-three-years-later-638498709ac8) \
 [Building Data Science Teams by DJ Patil](http://www.datascienceassn.org/sites/default/files/Building%20Data%20Science%20Teams.pdf) \
-[Engineers Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/#footnote1-return)
+[Engineers Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/#footnote1-return) \
+[The Role of the Data Engineer is Changing](https://www.kdnuggets.com/2019/01/role-data-engineer-changing.html)
 
 #### Teamwork
 [The Five Keys to a Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
