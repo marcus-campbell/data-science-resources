@@ -26,6 +26,9 @@
 #### Causal Inference
 [The Bradford Hill Criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
 
+#### Experimental Design
+[Experimental Design and Analysis](http://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
+
 #### A/B Testing
 [An Introduction to A/B Testing and Experimentation](https://www.dynamicyield.com/lesson/introduction-to-ab-testing/) \
 [A/B testing at LinkedIn: Assigning variants at scale](https://engineering.linkedin.com/blog/2020/a-b-testing-variant-assignment) \
