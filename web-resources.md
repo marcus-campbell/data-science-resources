@@ -15,6 +15,7 @@
 [Probability Theory by Jaynes](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf) \
 [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html) \
 [Do not use means with Likert scales](https://bookdown.org/Rmadillo/likert/summary.html) \
+[Stop Using ZIP codes for Geospatial Analysis](https://carto.com/blog/zip-codes-spatial-analysis/) \
 [Selecting Regression Metrics](https://towardsdatascience.com/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0) \
 [Digital textbook on probability and statistics](https://www.statlect.com/) \
 [Berkeley's Data 8 Course](http://data8.org/)
