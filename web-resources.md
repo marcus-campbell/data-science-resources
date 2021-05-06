@@ -60,5 +60,11 @@
 [Andrew Gelman's Blog: Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/) \
 [Variance Explained](http://varianceexplained.org/)
 
+#### Courses
+[Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) \
+[Just Enough R](https://benwhalley.github.io/just-enough-r/index.html) \
+[Basics of Statistical Learning](https://statisticallearning.org/index.html) \ 
+[Correlated Data](https://leanpub.com/correlateddata/read#leanpub-auto-chapter-1-multiple-methods-for-analyzing-hierarchical-data)
+
 #### Fun
 [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
