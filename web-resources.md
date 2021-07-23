@@ -7,6 +7,7 @@
 [You're Measuring Daily Active Users Wrong](https://amplitude.com/blog/2016/01/14/measuring-active-users)
 
 #### Statistics
+[Probability Cheatsheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) \
 [People Analytics](http://peopleanalytics-regression-book.org/index.html) \
 [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf) \
 [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf) \
