@@ -6,6 +6,9 @@
 #### Metric Selection
 [You're Measuring Daily Active Users Wrong](https://amplitude.com/blog/2016/01/14/measuring-active-users)
 
+#### Data Wrangling
+[Github repo of Study Guides For MIT's 15.003 "Data Science Tools" Course](https://github.com/shervinea/mit-15-003-data-science-tools)
+
 #### Statistics
 [Probability Cheatsheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) \
 [People Analytics](http://peopleanalytics-regression-book.org/index.html) \
