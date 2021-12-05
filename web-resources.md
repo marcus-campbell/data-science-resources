@@ -26,7 +26,11 @@
 
 #### Machine Learning
 [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html) \
-[Support Vector Machines vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
+[Support Vector Machines vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f) \
+[Shapley Values](https://www.analyticsvidhya.com/blog/2019/11/shapley-value-machine-learning-interpretability-game-theory/) \
+[Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27) \
+[Why Model Calibration Matters and How to Achieve It](https://www.unofficialgoogledatascience.com/2021/04/why-model-calibration-matters-and-how.html) \
+[Deep Learning’s Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
 
 #### Causal Inference
 [The Bradford Hill Criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
@@ -57,12 +61,16 @@
 #### Teamwork
 [The Five Keys to a Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
+#### Diversity
+[Rubric for Assessing Candidate Contributions to Diversity, Equity, Inclusion, and Belonging](https://ofew.berkeley.edu/recruitment/contributions-diversity/rubric-assessing-candidate-contributions-diversity-equity)
+
 #### Strategy
 [Lean Strategy](https://hbr.org/2016/03/lean-strategy)
 
 #### Blogs
 [Andrew Gelman's Blog: Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/) \
-[Variance Explained](http://varianceexplained.org/)
+[Variance Explained](http://varianceexplained.org/) \
+[Unofficial Google Data Science Blog](https://www.unofficialgoogledatascience.com/)
 
 #### Courses
 [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) \
