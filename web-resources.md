@@ -42,7 +42,8 @@
 [An Introduction to A/B Testing and Experimentation](https://www.dynamicyield.com/lesson/introduction-to-ab-testing/) \
 [A/B testing at LinkedIn: Assigning variants at scale](https://engineering.linkedin.com/blog/2020/a-b-testing-variant-assignment) \
 [Detecting interference: An A/B test of A/B tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) \
-[https://engineering.linkedin.com/blog/2021/budget-split-testing](https://engineering.linkedin.com/blog/2021/budget-split-testing)
+[https://engineering.linkedin.com/blog/2021/budget-split-testing](https://engineering.linkedin.com/blog/2021/budget-split-testing) \
+[When A/B Testing Doesn't Tell You the Whole Story](https://hbr.org/2021/06/research-when-a-b-testing-doesnt-tell-you-the-whole-story)
 
 #### Git
 [Atlassian's Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
