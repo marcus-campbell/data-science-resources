@@ -33,7 +33,11 @@
 [Deep Learning’s Diminishing Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
 
 #### Causal Inference
-[The Bradford Hill Criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
+[The Bradford Hill Criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria) \
+[Brady Neal's Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course) \
+[The Causal Inference Mixtape](https://mixtape.scunning.com/index.html) \
+[Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) \
+[Causal Inference - What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/03/ciwhatif_hernanrobins_30mar21.pdf)
 
 #### Experimental Design
 [Experimental Design and Analysis](http://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
